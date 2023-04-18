@@ -126,10 +126,10 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-https://tamoorsaeed22.github.io/My-Capstone-Project/
+https://aj193.github.io/Capstone-project/index.html
 
 ## 🚀 Loom Link <a name="Loom-Link"></a>
-https://www.loom.com/share/79b2fd800cff4b459208c3daa81064e2
+https://www.loom.com/share/24614a0619f2470b8388d46accd262bf
 
 
 
