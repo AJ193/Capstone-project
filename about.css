@@ -1,5 +1,5 @@
 .hero {
-  background: url('../Capstone-project/images/backgrounds/about-bg.png') center / contain;
+  background: url('images/backgrounds/about-bg.png') center / contain;
   background-repeat: no-repeat;
   min-height: 90vh;
   display: flex;
@@ -44,6 +44,14 @@ h1 {
   color: rgb(138, 136, 136);
   margin: 10px 0;
   max-width: 100%;
+}
+
+.top-header-pages {
+  display: flex;
+  max-width: 500px;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5px;
 }
 
 .inner a {
@@ -114,13 +122,13 @@ article {
 
 article div {
   padding: 60px;
-  background: url('../Capstone-project/images/about/about_2013.png') center / cover no-repeat;
+  background: url('images/about/about_2013.png') center / cover no-repeat;
   width: 50%;
   height: 300px;
 }
 
 .bg-2011 {
-  background: url('../Capstone-project/images/about/about_2011.png') center / cover no-repeat;
+  background: url('images/about/about_2011.png') center / cover no-repeat;
 }
 
 .prev p {

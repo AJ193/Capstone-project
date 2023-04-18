@@ -83,6 +83,15 @@ header div ul {
 
 .top-header {
   color: #fff;
+  display: flex;
+}
+
+.top-header-pages {
+  display: flex;
+  max-width: 500px;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5px;
 }
 
 footer div {

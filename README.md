@@ -272,7 +272,7 @@ Most of us are pretty good at judging whether a project is relevant for us. We m
 
 - The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07)
 - Project from [Microverse](https://bit.ly/MicroverseTN) html & css module
-- Images inspired by [Unsplash](unsplash.com)
+- Images inspired by [Unsplash](https://unsplash.com)
 - Topic inspired by [Khadija Hamdani](https://www.researchgate.net/publication/329972741_Knowledge_based_entrepreneurship_the_role_of_networks)
 
 I would like to thank my colleague and Microverse for the opportunity
