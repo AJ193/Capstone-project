@@ -15,7 +15,7 @@
 h1 {
   font-size: var(--head1);
   text-transform: uppercase;
-  background: url('../images/about/redfilter.jpeg') center / cover no-repeat;
+  background: url('../Capstone-project/images/about/redfilter.jpeg') center / cover no-repeat;
   -webkit-background-clip: text;
   background-clip: text;
   font-weight: bold;
