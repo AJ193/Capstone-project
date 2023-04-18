@@ -1,5 +1,5 @@
 .hero {
-  background: url('../images/backgrounds/about-bg.png') center / contain;
+  background: url('../Capstone-project/images/backgrounds/about-bg.png') center / contain;
   background-repeat: no-repeat;
   min-height: 90vh;
   display: flex;
@@ -114,13 +114,13 @@ article {
 
 article div {
   padding: 60px;
-  background: url('../images/about/about_2013.png') center / cover no-repeat;
+  background: url('../Capstone-project/images/about/about_2013.png') center / cover no-repeat;
   width: 50%;
   height: 300px;
 }
 
 .bg-2011 {
-  background: url('../images/about/about_2011.png') center / cover no-repeat;
+  background: url('../Capstone-project/images/about/about_2011.png') center / cover no-repeat;
 }
 
 .prev p {
