@@ -76,6 +76,7 @@ span {
 .sec-title {
   align-self: center;
   font-size: var(--head3);
+  gap: 20px;
 }
 
 .cards-group {
@@ -198,6 +199,15 @@ span {
   background-color: var(--orange);
   border-color: var(--orange);
   margin-bottom: 10%;
+}
+
+.divider-3 {
+  width: 7%;
+  height: 1px;
+  background-color: var(--orange);
+  border-color: var(--orange);
+  position: relative;
+  top: -20px;
 }
 
 .img-holder {
