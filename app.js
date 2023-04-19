@@ -58,6 +58,7 @@ let htmlContent = '';
 
 data.forEach((item) => {
   htmlContent += `<li class='speaker'>
+  <article>
     <div class='img-holder'>
     <img
     class='cheese'
@@ -78,7 +79,8 @@ data.forEach((item) => {
      ${item.about}
     </p>
   </div>
-</li>`;
+</li>
+</article>`;
 
   featureSection.innerHTML = htmlContent;
 });
